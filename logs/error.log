@@ -1,0 +1,1477 @@
+2024-09-25 13:15:41 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/events
+2024-09-25 13:15:41 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/events
+2024-09-25 13:15:44 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/
+2024-09-25 13:15:44 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/
+2024-09-25 13:15:47 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/
+2024-09-25 13:15:47 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/
+2024-09-25 13:16:51 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/
+2024-09-25 13:16:51 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/
+2024-09-25 13:17:12 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/
+2024-09-25 13:17:12 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/
+2024-09-25 13:17:27 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/
+2024-09-25 13:17:27 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/
+2024-09-25 13:38:33 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/events
+2024-09-25 13:38:34 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/events
+2024-09-25 13:40:47 error: [Cake\Routing\Exception\MissingRouteException] A route matching `array (
+  'action' => 'add',
+  'plugin' => NULL,
+  'controller' => 'Events',
+  '_ext' => NULL,
+)` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/RouteCollection.php on line 309
+Exception Attributes: array (
+  'url' => 'array (
+  \'action\' => \'add\',
+  \'plugin\' => NULL,
+  \'controller\' => \'Events\',
+  \'_ext\' => NULL,
+)',
+  'context' => 
+  array (
+    '_scheme' => 'http',
+    '_host' => 'localhost',
+    '_port' => 8765,
+    '_base' => '',
+    'params' => 
+    array (
+      'pass' => 
+      array (
+      ),
+      'controller' => 'Events',
+      'action' => 'index',
+      'plugin' => NULL,
+      '_matchedRoute' => '/',
+      '_ext' => NULL,
+    ),
+  ),
+)
+Stack Trace:
+- CORE/src/Routing/Router.php:453
+- CORE/src/View/Helper/UrlHelper.php:91
+- CORE/src/View/Helper/HtmlHelper.php:263
+- ROOT/templates/Events/index.php:8
+- CORE/src/View/View.php:1188
+- CORE/src/View/View.php:1145
+- CORE/src/View/View.php:785
+- CORE/src/Controller/Controller.php:710
+- CORE/src/Controller/Controller.php:514
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 13:41:18 error: [Cake\Routing\Exception\MissingRouteException] A route matching `array (
+  'action' => 'add',
+  'plugin' => NULL,
+  'controller' => 'Events',
+  '_ext' => NULL,
+)` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/RouteCollection.php on line 309
+Exception Attributes: array (
+  'url' => 'array (
+  \'action\' => \'add\',
+  \'plugin\' => NULL,
+  \'controller\' => \'Events\',
+  \'_ext\' => NULL,
+)',
+  'context' => 
+  array (
+    '_scheme' => 'http',
+    '_host' => 'localhost',
+    '_port' => 8765,
+    '_base' => '',
+    'params' => 
+    array (
+      'pass' => 
+      array (
+      ),
+      'controller' => 'Events',
+      'action' => 'index',
+      'plugin' => NULL,
+      '_matchedRoute' => '/',
+      '_ext' => NULL,
+    ),
+  ),
+)
+Stack Trace:
+- CORE/src/Routing/Router.php:453
+- CORE/src/View/Helper/UrlHelper.php:91
+- CORE/src/View/Helper/HtmlHelper.php:263
+- ROOT/templates/Events/index.php:8
+- CORE/src/View/View.php:1188
+- CORE/src/View/View.php:1145
+- CORE/src/View/View.php:785
+- CORE/src/Controller/Controller.php:710
+- CORE/src/Controller/Controller.php:514
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 13:41:19 error: [Cake\Routing\Exception\MissingRouteException] A route matching `array (
+  'action' => 'add',
+  'plugin' => NULL,
+  'controller' => 'Events',
+  '_ext' => NULL,
+)` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/RouteCollection.php on line 309
+Exception Attributes: array (
+  'url' => 'array (
+  \'action\' => \'add\',
+  \'plugin\' => NULL,
+  \'controller\' => \'Events\',
+  \'_ext\' => NULL,
+)',
+  'context' => 
+  array (
+    '_scheme' => 'http',
+    '_host' => 'localhost',
+    '_port' => 8765,
+    '_base' => '',
+    'params' => 
+    array (
+      'pass' => 
+      array (
+      ),
+      'controller' => 'Events',
+      'action' => 'index',
+      'plugin' => NULL,
+      '_matchedRoute' => '/',
+      '_ext' => NULL,
+    ),
+  ),
+)
+Stack Trace:
+- CORE/src/Routing/Router.php:453
+- CORE/src/View/Helper/UrlHelper.php:91
+- CORE/src/View/Helper/HtmlHelper.php:263
+- ROOT/templates/Events/index.php:8
+- CORE/src/View/View.php:1188
+- CORE/src/View/View.php:1145
+- CORE/src/View/View.php:785
+- CORE/src/Controller/Controller.php:710
+- CORE/src/Controller/Controller.php:514
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 15:45:34 error: [Cake\Http\Exception\MissingControllerException] Controller class `calendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'calendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:320
+- CORE/src/Controller/ControllerFactory.php:75
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 15:47:02 error: [Cake\Controller\Exception\MissingActionException] Action `EventsController::calendar()` could not be found, or is not accessible. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php on line 483
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:161
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 15:47:03 error: [Cake\Controller\Exception\MissingActionException] Action `EventsController::calendar()` could not be found, or is not accessible. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php on line 483
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:161
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 16:56:08 error: [Cake\Controller\Exception\MissingActionException] Action `EventsController::calendar()` could not be found, or is not accessible. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php on line 483
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:161
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 16:56:08 error: [Cake\Controller\Exception\MissingActionException] Action `EventsController::calendar()` could not be found, or is not accessible. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php on line 483
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:161
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 16:56:32 error: [Cake\Controller\Exception\MissingActionException] Action `EventsController::calendar()` could not be found, or is not accessible. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php on line 483
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:161
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+2024-09-25 17:55:25 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.css
+Referer URL: http://localhost:8765/events
+2024-09-25 17:55:25 error: [Cake\Http\Exception\MissingControllerException] Controller class `Fullcalendar` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Fullcalendar',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /fullcalendar/main.min.js
+Referer URL: http://localhost:8765/events
+2024-09-25 17:55:25 error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table `requests`. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/ORM/Query/SelectQuery.php on line 604
+Stack Trace:
+- CORE/src/ORM/Table.php:1591
+- ROOT/vendor/cakephp/debug_kit/src/Controller/RequestsController.php:60
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /debug-kit/toolbar/ad3827ca-6a23-4e84-87b2-ee3b6cffaa3a
+Referer URL: http://localhost:8765/events
+2024-09-25 18:54:31 error: [Cake\Http\Exception\MissingControllerException] Controller class `Css` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /css/fullcalendar/calendar.css
+Referer URL: http://localhost:8765/
+2024-09-25 18:54:33 error: [Cake\Http\Exception\MissingControllerException] Controller class `Css` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /css/fullcalendar/calendar.css
+Referer URL: http://localhost:8765/
+2024-09-25 18:54:50 error: [Cake\Http\Exception\MissingControllerException] Controller class `Css` could not be found. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php on line 335
+Exception Attributes: array (
+  'controller' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- CORE/src/Controller/ControllerFactory.php:77
+- CORE/src/Http/BaseApplication.php:358
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:78
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /css/calendar.css
+Referer URL: http://localhost:8765/
+2024-09-25 18:57:27 error: [Error] Call to undefined method App\View\AppView::fullcalendar() in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/templates/layout/default.php on line 22
+Stack Trace:
+- CORE/src/View/View.php:1188
+- CORE/src/View/View.php:1145
+- CORE/src/View/View.php:837
+- CORE/src/View/View.php:796
+- CORE/src/Controller/Controller.php:710
+- CORE/src/Controller/Controller.php:514
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+Referer URL: http://localhost:8765/
+2024-09-25 18:57:28 error: [Error] Call to undefined method App\View\AppView::fullcalendar() in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/templates/layout/default.php on line 22
+Stack Trace:
+- CORE/src/View/View.php:1188
+- CORE/src/View/View.php:1145
+- CORE/src/View/View.php:837
+- CORE/src/View/View.php:796
+- CORE/src/Controller/Controller.php:710
+- CORE/src/Controller/Controller.php:514
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /
+Referer URL: http://localhost:8765/
+2024-09-26 12:55:25 error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table `events` with primary key `[NULL]`. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/ORM/Table.php on line 1531
+Stack Trace:
+- APP/Controller/EventsController.php:81
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/edit?undefined
+Referer URL: http://localhost:8765/
+2024-09-26 13:06:44 error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table `events` with primary key `[NULL]`. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/ORM/Table.php on line 1531
+Stack Trace:
+- APP/Controller/EventsController.php:81
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/edit?1
+Referer URL: http://localhost:8765/
+2024-09-26 13:43:41 error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table `events` with primary key `[NULL]`. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/ORM/Table.php on line 1531
+Stack Trace:
+- APP/Controller/EventsController.php:81
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/edit?1
+Referer URL: http://localhost:8765/
+2024-09-26 13:46:32 error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table `events` with primary key `[NULL]`. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/ORM/Table.php on line 1531
+Stack Trace:
+- APP/Controller/EventsController.php:81
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/edit?1
+Referer URL: http://localhost:8765/
+2024-09-26 13:47:39 error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table `events` with primary key `[NULL]`. in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/ORM/Table.php on line 1531
+Stack Trace:
+- APP/Controller/EventsController.php:81
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:157
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/edit?1
+Referer URL: http://localhost:8765/
+2024-09-26 17:04:05 error: [Cake\Database\Exception\QueryException] SQLSTATE[HY000]: General error: 1364 Field 'all_day' doesn't have a default value in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Database/Driver.php on line 375
+Stack Trace:
+- CORE/src/Database/Driver.php:351
+- CORE/src/Database/Driver/Mysql.php:185
+- CORE/src/Database/Connection.php:267
+- CORE/src/Core/Retry/CommandRetry.php:71
+- CORE/src/Database/Connection.php:267
+- CORE/src/Database/Query.php:223
+- CORE/src/ORM/Table.php:2185
+- CORE/src/ORM/Table.php:2078
+- CORE/src/ORM/Table.php:1973
+- CORE/src/ORM/Table.php:1604
+- CORE/src/Database/Connection.php:636
+- CORE/src/ORM/Table.php:1604
+- CORE/src/ORM/Table.php:1972
+- APP/Controller/EventsController.php:42
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:162
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Caused by: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'all_day' doesn't have a default value in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Database/Statement/Statement.php on line 146
+Stack Trace:
+- CORE/src/Database/Statement/Statement.php:146
+- CORE/src/Database/Driver.php:333
+- CORE/src/Database/Driver/Mysql.php:185
+- CORE/src/Database/Connection.php:267
+- CORE/src/Core/Retry/CommandRetry.php:71
+- CORE/src/Database/Connection.php:267
+- CORE/src/Database/Query.php:223
+- CORE/src/ORM/Table.php:2185
+- CORE/src/ORM/Table.php:2078
+- CORE/src/ORM/Table.php:1973
+- CORE/src/ORM/Table.php:1604
+- CORE/src/Database/Connection.php:636
+- CORE/src/ORM/Table.php:1604
+- CORE/src/ORM/Table.php:1972
+- APP/Controller/EventsController.php:42
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:162
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2002:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2002:30:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+2024-09-26 17:06:49 error: [Cake\Database\Exception\QueryException] SQLSTATE[HY000]: General error: 1364 Field 'all_day' doesn't have a default value in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Database/Driver.php on line 375
+Stack Trace:
+- CORE/src/Database/Driver.php:351
+- CORE/src/Database/Driver/Mysql.php:185
+- CORE/src/Database/Connection.php:267
+- CORE/src/Core/Retry/CommandRetry.php:71
+- CORE/src/Database/Connection.php:267
+- CORE/src/Database/Query.php:223
+- CORE/src/ORM/Table.php:2185
+- CORE/src/ORM/Table.php:2078
+- CORE/src/ORM/Table.php:1973
+- CORE/src/ORM/Table.php:1604
+- CORE/src/Database/Connection.php:636
+- CORE/src/ORM/Table.php:1604
+- CORE/src/ORM/Table.php:1972
+- APP/Controller/EventsController.php:42
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:162
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Caused by: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'all_day' doesn't have a default value in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Database/Statement/Statement.php on line 146
+Stack Trace:
+- CORE/src/Database/Statement/Statement.php:146
+- CORE/src/Database/Driver.php:333
+- CORE/src/Database/Driver/Mysql.php:185
+- CORE/src/Database/Connection.php:267
+- CORE/src/Core/Retry/CommandRetry.php:71
+- CORE/src/Database/Connection.php:267
+- CORE/src/Database/Query.php:223
+- CORE/src/ORM/Table.php:2185
+- CORE/src/ORM/Table.php:2078
+- CORE/src/ORM/Table.php:1973
+- CORE/src/ORM/Table.php:1604
+- CORE/src/Database/Connection.php:636
+- CORE/src/ORM/Table.php:1604
+- CORE/src/ORM/Table.php:1972
+- APP/Controller/EventsController.php:42
+- CORE/src/Controller/Controller.php:503
+- CORE/src/Controller/ControllerFactory.php:166
+- CORE/src/Controller/ControllerFactory.php:141
+- CORE/src/Http/BaseApplication.php:360
+- CORE/src/Http/Runner.php:86
+- CORE/src/Http/Middleware/CsrfProtectionMiddleware.php:169
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Middleware/BodyParserMiddleware.php:162
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/RoutingMiddleware.php:118
+- CORE/src/Http/Runner.php:82
+- CORE/src/Routing/Middleware/AssetMiddleware.php:69
+- CORE/src/Http/Runner.php:82
+- CORE/src/Error/Middleware/ErrorHandlerMiddleware.php:115
+- CORE/src/Http/Runner.php:82
+- ROOT/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php:60
+- CORE/src/Http/Runner.php:82
+- CORE/src/Http/Runner.php:60
+- CORE/src/Http/Server.php:104
+- ROOT/webroot/index.php:37
+- [main]:
+
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+2024-09-26 17:39:30 warning: Undefined array key "email"
+Request URL: /events/add?title=undefined,&start=Thu%20Sep%2026%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+App\Controller\EventsController->addEventNotification() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/src/Controller/EventsController.php, line 44
+App\Controller\EventsController->add() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php, line 503
+Cake\Controller\Controller->invokeAction() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 166
+Cake\Controller\ControllerFactory->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 141
+Cake\Controller\ControllerFactory->invoke() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 360
+Cake\Http\BaseApplication->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 162
+Cake\Http\Middleware\BodyParserMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 60
+Cake\Http\Runner->run() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 104
+Cake\Http\Server->run() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:39:30 warning: Unable to emit headers. Headers sent in file=/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php line=37
+Request URL: /events/add?title=undefined,&start=Thu%20Sep%2026%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 65
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:39:30 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Thu%20Sep%2026%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 159
+Cake\Http\ResponseEmitter->emitStatusLine() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 68
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:39:30 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Thu%20Sep%2026%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 192
+Cake\Http\ResponseEmitter->emitHeaders() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 69
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:39:30 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Thu%20Sep%2026%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 192
+Cake\Http\ResponseEmitter->emitHeaders() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 69
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:39:30 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Thu%20Sep%2026%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 192
+Cake\Http\ResponseEmitter->emitHeaders() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 69
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:50:23 warning: Undefined array key "email"
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+App\Controller\EventsController->addEventNotification() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/src/Controller/EventsController.php, line 44
+App\Controller\EventsController->add() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/Controller.php, line 503
+Cake\Controller\Controller->invokeAction() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 166
+Cake\Controller\ControllerFactory->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 141
+Cake\Controller\ControllerFactory->invoke() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 360
+Cake\Http\BaseApplication->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 162
+Cake\Http\Middleware\BodyParserMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Runner.php, line 60
+Cake\Http\Runner->run() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 104
+Cake\Http\Server->run() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:50:23 warning: Unable to emit headers. Headers sent in file=/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php line=37
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 65
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:50:23 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 159
+Cake\Http\ResponseEmitter->emitStatusLine() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 68
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:50:23 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 192
+Cake\Http\ResponseEmitter->emitHeaders() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 69
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:50:23 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 192
+Cake\Http\ResponseEmitter->emitHeaders() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 69
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+
+2024-09-26 17:50:23 warning: Cannot modify header information - headers already sent by (output started at /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Error/Renderer/HtmlErrorRenderer.php:37)
+Request URL: /events/add?title=undefined,&start=Fri%20Sep%2027%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)&end=Sat%20Sep%2028%202024%2000:00:00%20GMT-0300%20(Hor%C3%A1rio%20Padr%C3%A3o%20de%20Bras%C3%ADlia)
+Referer URL: http://localhost:8765/
+Trace:
+/Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 192
+Cake\Http\ResponseEmitter->emitHeaders() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 69
+Cake\Http\ResponseEmitter->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Http/Server.php, line 148
+Cake\Http\Server->emit() /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/webroot/index.php, line 37
+[main]
+

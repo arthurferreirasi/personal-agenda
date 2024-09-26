@@ -1,0 +1,35 @@
+2024-09-25 12:52:37 error: [Cake\Database\Exception\MissingConnectionException] Connection to Mysql could not be established: SQLSTATE[HY000] [2002] No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Database/Driver.php on line 194
+Exception Attributes: array (
+  'driver' => 'Mysql',
+  'reason' => 'SQLSTATE[HY000] [2002] No such file or directory',
+)
+Stack Trace:
+- CORE/src/Database/Driver/Mysql.php:160
+- CORE/src/Database/Schema/SchemaDialect.php:51
+- CORE/src/Database/Driver/Mysql.php:206
+- CORE/src/Database/Schema/Collection.php:53
+- CORE/src/Database/Connection.php:366
+- ROOT/vendor/cakephp/bake/src/Command/ModelCommand.php:92
+- CORE/src/Console/BaseCommand.php:192
+- CORE/src/Console/CommandRunner.php:330
+- CORE/src/Console/CommandRunner.php:167
+- ROOT/bin/cake.php:10
+- [main]:
+
+Caused by: [PDOException] SQLSTATE[HY000] [2002] No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/vendor/cakephp/cakephp/src/Database/Driver.php on line 183
+Stack Trace:
+- CORE/src/Database/Driver.php:183
+- CORE/src/Core/Retry/CommandRetry.php:71
+- CORE/src/Database/Driver.php:192
+- CORE/src/Database/Driver/Mysql.php:160
+- CORE/src/Database/Schema/SchemaDialect.php:51
+- CORE/src/Database/Driver/Mysql.php:206
+- CORE/src/Database/Schema/Collection.php:53
+- CORE/src/Database/Connection.php:366
+- ROOT/vendor/cakephp/bake/src/Command/ModelCommand.php:92
+- CORE/src/Console/BaseCommand.php:192
+- CORE/src/Console/CommandRunner.php:330
+- CORE/src/Console/CommandRunner.php:167
+- ROOT/bin/cake.php:10
+- [main]:
+
