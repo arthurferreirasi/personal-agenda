@@ -4,23 +4,18 @@
  * @var \App\Model\Entity\Event $event
  */
 ?>
+<?= $this->Html->css(('modal-form')) ?>
 <div class="row">
-    <aside class="column">
-        <div class="side-nav">
-            <h4 class="heading"><?= __('Actions') ?></h4>
-            <?= $this->Html->link(__('List Events'), ['action' => 'index'], ['class' => 'side-nav-item']) ?>
-        </div>
-    </aside>
     <div class="column column-80">
-        <div class="events form content">
+        <div class="events-form-content">
             <?= $this->Form->create($event) ?>
             <fieldset>
-                <legend><?= __('Add Event') ?></legend>
+                <legend><?= __('Criar Evento') ?></legend>
                 <?php
-                echo $this->Form->control(fieldName: 'title');
-                echo $this->Form->control(fieldName: 'start');
-                echo $this->Form->control(fieldName: 'end');
-                echo $this->Form->control(fieldName: 'all_day');
+                echo $this->Form->control('title');
+                echo $this->Form->control('start', ['type' => 'datetime-local']);
+                echo $this->Form->control('end', [ 'type' => 'datetime-local']);
+                echo $this->Form->control('all_day', ['type' => 'checkbox']);
                 ?>
             </fieldset>
             <?= $this->Form->button(__('Salvar')) ?>

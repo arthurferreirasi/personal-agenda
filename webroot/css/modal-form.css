@@ -1,0 +1,92 @@
+:root {
+    --color-main-bg: #f4f4f6;    
+    --color-main-red: #d33c43;
+    --color-main-gray: #404041;
+    --color-main-black: #000;
+
+    --color-green-btn: #4CAF50;
+    --color-green-btn-hover: #45a049; 
+
+    --color-lightgray: #606c76;
+    --color-white: #fff;
+}
+
+.events-form-content {
+    padding: 20px;
+    background-color: var(--color-white);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.events-form-content legend {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: var(--color-main-gray);
+}
+
+.events-form-content .form-control {
+    margin-bottom: 15px;
+}
+
+.events-form-content input[type="text"],
+.events-form-content input[type="datetime-local"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+
+.events-form-content input[type="checkbox"]{
+    margin: 10px;
+}
+
+.finalize-btns{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    margin-top: 15px;
+}
+
+button {
+    background-color: var(--color-green-btn);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: var(--color-green-btn-hover)
+}
+
+.delete-btn {
+    background-color: var(--color-main-red);
+    color: var(--color-white);
+    margin-left: 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.delete-btn:hover {
+    background-color: #b42b32;
+    text-decoration: none;
+}
+
+.is-invalid {
+    border-color: var(--color-main-red);
+}
+
+.invalid-feedback {
+    color: var(--color-main-red);
+    font-size: 0.9em;
+    margin-top: 5px;
+}

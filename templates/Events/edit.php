@@ -3,7 +3,9 @@
  * @var \App\View\AppView $this
  * @var \App\Model\Entity\Event $event
  */
+
 ?>
+<?= $this->Html->css(('modal-form')) ?>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var topNav = document.getElementById("topNav");
@@ -18,31 +20,27 @@
 
 </script>
 <div class="row">
-    <aside class="column">
-        <div class="side-nav">
-            <h4 class="heading"><?= __('Actions') ?></h4>
-            <?= $this->Form->postLink(
-                __('Delete'),
-                ['action' => 'delete', $event->id],
-                ['confirm' => __('Are you sure you want to delete # {0}?', $event->id), 'class' => 'side-nav-item']
-            ) ?>
-            <?= $this->Html->link(__('List Events'), ['action' => 'index'], ['class' => 'side-nav-item']) ?>
-        </div>
-    </aside>
     <div class="column column-80">
-        <div class="events form content">
+        <div class="events-form-content">
             <?= $this->Form->create($event) ?>
             <fieldset>
                 <legend><?= __('Edit Event') ?></legend>
                 <?php
                 echo $this->Form->control('title');
-                echo $this->Form->control('start');
-                echo $this->Form->control('end');
-                echo $this->Form->control('all_day');
+                echo $this->Form->control('start', ['type' => 'datetime-local']);
+                echo $this->Form->control('end', [ 'type' => 'datetime-local']);
+                echo $this->Form->control('all_day', ['type' => 'checkbox']);
                 ?>
             </fieldset>
-            <?= $this->Form->button(__('Submit')) ?>
+            <?= $this->Form->button(__('Salvar')) ?>
             <?= $this->Form->end() ?>
         </div>
+        <button class="delete-btn">
+            <?= $this->Form->postLink(
+                __('Excluir'),
+                ['action' => 'delete', $event->id],
+                ['confirm' => __('Tem certeza que deseja deletar este evento?', $event->id)]
+            ) ?>
+            </button>
     </div>
 </div>

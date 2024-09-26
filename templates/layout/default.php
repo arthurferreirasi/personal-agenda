@@ -5,7 +5,7 @@
  */
 
 $cakeDescription = 'Personal Agenda';
-$username = 'Nome Sobrenome';
+$username = 'Nome Sobrenome'; // obter dados do banco
 ?>
 <!DOCTYPE html>
 <html>

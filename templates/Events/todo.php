@@ -9,7 +9,7 @@
 
 <div class="row">
     <div class="column column-50">
-        <h3>To Do</h3>
+        <h3>Pendente</h3>
         <ul>
             <?php if (!$toDoEvents->isEmpty()): ?>
                 <?php foreach ($toDoEvents as $event): ?>
@@ -25,7 +25,7 @@
     </div>
 
     <div class="column column-50">
-        <h3>Done</h3>
+        <h3>Feito</h3>
         <ul>
             <?php if (!$doneEvents->isEmpty()): ?>
                 <?php foreach ($doneEvents as $event): ?>
