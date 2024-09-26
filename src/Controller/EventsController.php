@@ -89,6 +89,24 @@ class EventsController extends AppController
         return $this->redirect('/');
     }
 
+    public function todo()
+    {
+        $now = new \DateTime();
+
+        $toDoEvents = $this->Events->find('all')
+            ->where(['start >' => $now])
+            ->order(['start' => 'ASC'])
+            ->all();
+
+        $doneEvents = $this->Events->find('all')
+            ->where(['start <=' => $now])
+            ->order(['start' => 'DESC'])
+            ->all();
+
+        $this->set(compact('toDoEvents', 'doneEvents'));
+    }
+
+
     public function addEventNotification()
     {
         if ($this->request->is('post')) {

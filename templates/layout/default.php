@@ -5,7 +5,7 @@
  */
 
 $cakeDescription = 'Personal Agenda';
-$username = 'Test Name';
+$username = 'Nome Sobrenome';
 ?>
 <!DOCTYPE html>
 <html>
@@ -40,9 +40,9 @@ $username = 'Test Name';
         <div class="layout">
             <div class="side-nav" id="sideNav">
                 <ul class="nav-links">
-                    <li><a href="#calendar" class="active">Calendário</a></li>
-                    <li><a href="#planner">Planner</a></li>
-                    <li><a href="#notifications">Notificações</a></li>
+                    <li><a href="calendar" class="active">Calendário</a></li>
+                    <li><a href="todo">To do</a></li>
+                    <li><a href="">Notificações</a></li>
                 </ul>
             </div>
 
