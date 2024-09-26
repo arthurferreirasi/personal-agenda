@@ -13,7 +13,7 @@ class EmailComponent extends Component
         $mail = new PHPMailer(true);
         try {
             $mail->isSMTP();
-            $mail->Host = Configure::read('EmailTransport.default.host');
+            $mail->Host = 'smtp.office365.com';
             $mail->SMTPAuth = true;
             $mail->Username = Configure::read('EmailTransport.default.username');
             $mail->Password = Configure::read('EmailTransport.default.password');
