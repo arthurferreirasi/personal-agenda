@@ -57,7 +57,7 @@ class EventsController extends AppController
         $allDay = $this->request->getQuery('all_day');
 
         $this->set(compact('event', 'title', 'start', 'end'));
-
+        $this->set('isModal', true);
     }
 
     public function edit($id = null)
@@ -73,6 +73,7 @@ class EventsController extends AppController
             $this->Flash->error(__('Erro ao editar o evento. Por favor, tente novamente.'));
         }
         $this->set(compact('event'));
+        $this->set('isModal', true);
     }
 
     public function delete($id = null)
