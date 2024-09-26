@@ -157,7 +157,7 @@ class EventsController extends AppController
                 'title' => $event->title,
                 'start' => $event->start->format('Y-m-d H:i:s'),
                 'end' => $event->end ? $event->end->format('Y-m-d H:i:s') : null,
-                'all_day' => (bool)$event->allDay
+                'all_day' => (bool) $event->allDay
             ];
         }
 

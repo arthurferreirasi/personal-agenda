@@ -30,7 +30,7 @@ return [
             'host' => 'localhost',
             'port' => 25,
             'username' => 'arthursiqueiraferreira@outlook.com',
-            'password' => 'Siqueira@020',
+            'password' => '',
             'client' => null,
             'url' => env('EMAIL_TRANSPORT_DEFAULT_URL', null),
             'className' => 'Smtp',

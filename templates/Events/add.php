@@ -14,7 +14,7 @@
                 <?php
                 echo $this->Form->control('title');
                 echo $this->Form->control('start', ['type' => 'datetime-local']);
-                echo $this->Form->control('end', [ 'type' => 'datetime-local']);
+                echo $this->Form->control('end', ['type' => 'datetime-local']);
                 echo $this->Form->control('all_day', ['type' => 'checkbox']);
                 ?>
             </fieldset>

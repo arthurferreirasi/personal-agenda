@@ -14,8 +14,8 @@
         if (topNav) {
             topNav.style.display = "none";
         }
-            sideNav.style.display = "none";
-        
+        sideNav.style.display = "none";
+
     });
 
 </script>
@@ -28,7 +28,7 @@
                 <?php
                 echo $this->Form->control('title');
                 echo $this->Form->control('start', ['type' => 'datetime-local']);
-                echo $this->Form->control('end', [ 'type' => 'datetime-local']);
+                echo $this->Form->control('end', ['type' => 'datetime-local']);
                 echo $this->Form->control('all_day', ['type' => 'checkbox']);
                 ?>
             </fieldset>
@@ -41,6 +41,6 @@
                 ['action' => 'delete', $event->id],
                 ['confirm' => __('Tem certeza que deseja deletar este evento?', $event->id)]
             ) ?>
-            </button>
+        </button>
     </div>
 </div>
