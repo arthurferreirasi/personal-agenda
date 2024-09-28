@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Tempo de geração: 27/09/2024 às 01:18
+-- Tempo de geração: 28/09/2024 às 15:25
 -- Versão do servidor: 10.4.28-MariaDB
 -- Versão do PHP: 8.2.4
 
@@ -34,18 +34,18 @@ CREATE TABLE `events` (
   `end` datetime NOT NULL,
   `all_day` tinyint(1) NOT NULL,
   `created` datetime DEFAULT NULL,
-  `modified` datetime DEFAULT NULL
+  `modified` datetime DEFAULT NULL,
+  `notified` tinyint(1) DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Despejando dados para a tabela `events`
 --
 
-INSERT INTO `events` (`id`, `title`, `start`, `end`, `all_day`, `created`, `modified`) VALUES
-(5, 'Sextooou', '2024-09-27 14:55:18', '2024-09-27 15:55:22', 0, '2024-09-26 17:55:36', '2024-09-26 17:55:36'),
-(6, 'Delivery', '2024-09-26 19:50:00', '2024-09-26 23:50:00', 0, '2024-09-26 20:11:17', '2024-09-26 22:50:25'),
-(8, 'Fim do mes', '2024-09-30 20:12:00', '2024-09-30 20:12:00', 1, '2024-09-26 23:12:20', '2024-09-26 23:12:20'),
-(10, 'Enviar email', '2024-09-29 20:15:00', '2024-09-29 20:16:00', 1, '2024-09-26 23:16:09', '2024-09-26 23:16:09');
+INSERT INTO `events` (`id`, `title`, `start`, `end`, `all_day`, `created`, `modified`, `notified`) VALUES
+(8, 'Fim do mes', '2024-09-30 20:12:00', '2024-09-30 20:12:00', 1, '2024-09-26 23:12:20', '2024-09-26 23:12:20', 0),
+(10, 'Enviar email', '2024-09-29 20:15:00', '2024-09-29 20:16:00', 1, '2024-09-26 23:16:09', '2024-09-26 23:16:09', 0),
+(13, 'Sextou', '2024-09-27 22:23:00', '2024-09-28 22:23:00', 0, '2024-09-28 01:23:38', '2024-09-28 01:24:38', 1);
 
 -- --------------------------------------------------------
 
@@ -88,7 +88,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT de tabela `events`
 --
 ALTER TABLE `events`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
 
 --
 -- AUTO_INCREMENT de tabela `users`
