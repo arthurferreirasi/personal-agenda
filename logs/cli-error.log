@@ -33,3 +33,29 @@ Stack Trace:
 - ROOT/bin/cake.php:10
 - [main]:
 
+2024-09-27 23:36:07 error: [Error] Class "Cake\Console\Command" not found in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/src/Command/SendEventNotificationCommand.php on line 12
+Stack Trace:
+- ROOT/vendor/composer/ClassLoader.php:576
+- ROOT/vendor/composer/ClassLoader.php:427
+- [internal]:??
+- CORE/src/Console/CommandScanner.php:118
+- CORE/src/Console/CommandScanner.php:58
+- CORE/src/Console/CommandCollection.php:237
+- CORE/src/Http/BaseApplication.php:245
+- CORE/src/Console/CommandRunner.php:144
+- ROOT/bin/cake.php:10
+- [main]:
+
+2024-09-27 23:36:17 error: [Error] Class "Cake\Console\Command" not found in /Applications/XAMPP/xamppfiles/htdocs/personal-agenda/src/Command/SendEventNotificationCommand.php on line 12
+Stack Trace:
+- ROOT/vendor/composer/ClassLoader.php:576
+- ROOT/vendor/composer/ClassLoader.php:427
+- [internal]:??
+- CORE/src/Console/CommandScanner.php:118
+- CORE/src/Console/CommandScanner.php:58
+- CORE/src/Console/CommandCollection.php:237
+- CORE/src/Http/BaseApplication.php:245
+- CORE/src/Console/CommandRunner.php:144
+- ROOT/bin/cake.php:10
+- [main]:
+

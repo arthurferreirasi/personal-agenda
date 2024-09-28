@@ -24,7 +24,7 @@
         <div class="events-form-content">
             <?= $this->Form->create($event) ?>
             <fieldset>
-                <legend><?= __('Edit Event') ?></legend>
+                <legend><?= __('Editar Evento') ?></legend>
                 <?php
                 echo $this->Form->control('title');
                 echo $this->Form->control('start', ['type' => 'datetime-local']);

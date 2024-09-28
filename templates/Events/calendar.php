@@ -75,43 +75,80 @@
 
     function openEditModal(eventId) {
       var modal = document.getElementById("eventModal");
-        var closeBtn = document.getElementsByClassName("close")[0];
+      var closeBtn = document.getElementsByClassName("close")[0];
 
-        modal.style.display = "block";
+      modal.style.display = "block";
 
-        var xhr = new XMLHttpRequest();
-        xhr.open("GET", "/events/edit/" + eventId, true);
-        xhr.onload = function () {
-          if (xhr.status == 200) {
-            document.getElementById("modalBody").innerHTML = xhr.responseText;
-          }
-        };
-        xhr.send();
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "/events/edit/" + eventId, true);
+      xhr.onload = function () {
+        if (xhr.status == 200) {
+          document.getElementById("modalBody").innerHTML = xhr.responseText;
+        }
+      };
+      xhr.send();
 
-        closeBtn.onclick = function () {
+      closeBtn.onclick = function () {
+        modal.style.display = "none";
+      };
+
+      window.onclick = function (event) {
+        if (event.target == modal) {
           modal.style.display = "none";
-        };
-
-        window.onclick = function (event) {
-          if (event.target == modal) {
-            modal.style.display = "none";
-          }
-        };
+        }
+      };
     }
-  
+
     function showNotification(title, body) {
-    if (Notification.permission === "granted") {
+      if (Notification.permission === "granted") {
         new Notification(title, { body: body });
-    } else if (Notification.permission !== "denied") {
+      } else if (Notification.permission !== "denied") {
         Notification.requestPermission().then(permission => {
-            if (permission === "granted") {
-                new Notification(title, { body: body });
-            }
+          if (permission === "granted") {
+            new Notification(title, { body: body });
+          }
         });
+      }
     }
-}
 
-  
+    function requestNotificationPermission() {
+      if (Notification.permission === "default") {
+        Notification.requestPermission().then(function (permission) {
+          if (permission === "granted") {
+            console.log("Notificações permitidas.");
+          } else {
+            console.log("Permissão para notificações negada.");
+          }
+        });
+      }
+    }
+
+    function notifyUser(notificationData) {
+      if (Notification.permission === "granted") {
+        new Notification(notificationData.title, {
+          body: notificationData.body,
+          icon: notificationData.icon
+        });
+      }
+    }
+
+    function fetchNotifications() {
+      fetch('/notifications')
+        .then(response => response.json())
+        .then(data => {
+          data.notifications.forEach(notification => {
+            notifyUser(notification);
+          });
+        })
+        .catch(error => console.error('Erro ao buscar notificações:', error));
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      requestNotificationPermission();
+      setInterval(fetchNotifications, 60000);
+    });
+
+
   </script>
 
 </head>
